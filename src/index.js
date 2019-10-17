@@ -24,4 +24,4 @@ client.on('message', msg => {
   require('./commands/joke')(msg, command);
 });
 
-client.login(process.env.DISCORD_TOKEN);
+client.login(process.env.633990554790920192);
