@@ -6,7 +6,6 @@
     "start": "nodemon src/index.js",
     "lint": "eslint src/**",
     "test": "jest --silent --verbose"
-    "build": "roguard-discord-bot build --output public"
   },
   "author": "Filipe Barros",
   "license": "Apache-2.0",
